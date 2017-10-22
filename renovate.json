@@ -3,7 +3,6 @@
     "config:js-lib"
   ],
   "lockFileMaintenance": {
-    "enabled": true,
-    "schedule": null
+    "enabled": true
   }
 }
