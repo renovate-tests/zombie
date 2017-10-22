@@ -3,6 +3,6 @@
     "config:js-lib"
   ],
   "lockFileMaintenance": {
-    "schedule": []
+    "recreateClosedPrs": false
   }
 }
