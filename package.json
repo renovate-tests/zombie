@@ -2,6 +2,6 @@
   "name": "zombie",
   "version": "0.0.1",
   "dependencies": {
-    "left-pad": "^1.0.0"
+    "left-pad": "1.1.3"
     }
     }
